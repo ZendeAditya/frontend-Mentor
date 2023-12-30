@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+[![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)](https://frontend-mento-qr-code.vercel.app/)
+![image](https://github.com/ZendeAditya/frontend-Mentor/assets/91424824/dea0ce2b-be00-4f9f-8627-d90ab5a03d13)
 
 ## Welcome! 👋
 
